@@ -573,4 +573,4 @@ function Libary:CreateTab(TabName)
 	return Lib
 end
 
-Libary:CreateWindow()
+return Libary
