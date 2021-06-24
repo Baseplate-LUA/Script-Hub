@@ -572,5 +572,3 @@ function Libary:CreateTab(TabName)
 
 	return Lib
 end
-
-return Libary
